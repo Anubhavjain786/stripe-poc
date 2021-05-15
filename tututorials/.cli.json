@@ -1,0 +1,11 @@
+{
+  "name": "office-hours",
+  "configureDotEnv": true,
+  "integrations": [
+    {
+      "name": "starter",
+      "clients": ["html", "react-cra"],
+      "servers": ["node", "php", "python", "ruby", "go-http", "java", "dotnet", "go-echo", "php-slim"]
+    }
+  ]
+}
